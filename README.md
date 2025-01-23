@@ -1,4 +1,4 @@
-/ User Authentication Interface
+User Authentication Interface
 
 This Flutter project provides a user authentication interface, including functionalities for:
 
