@@ -23,7 +23,8 @@ The application is connected to Firebase for backend authentication services.
  • Password Reset: Sends a reset link to the user’s registered email.
 
  # Screenshots
- ![IMG_20250123_103024_033](https://github.com/user-attachments/assets/cd46e11a-deb9-43d7-bed4-f55f8af006c3)
+![image](https://github.com/user-attachments/assets/20c7893d-c2ce-48c1-af4f-38fb8002d898)
+
 # Technologies Used
 
  • Flutter: For the frontend UI.
