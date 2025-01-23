@@ -1,4 +1,4 @@
-User Authentication Interface
+/ User Authentication Interface
 
 This Flutter project provides a user authentication interface, including functionalities for:
 
@@ -24,7 +24,6 @@ Features
 
  Screenshots
  ![IMG_20250123_103024_033](https://github.com/user-attachments/assets/cd46e11a-deb9-43d7-bed4-f55f8af006c3)
-
 Technologies Used
 
  • Flutter: For the frontend UI.
