@@ -1,4 +1,4 @@
-User Authentication Interface
+#User Authentication Interface
 
 This Flutter project provides a user authentication interface, including functionalities for:
 
@@ -12,7 +12,7 @@ This Flutter project provides a user authentication interface, including functio
 
 The application is connected to Firebase for backend authentication services.
 
-Features
+#Features
 
  • Sign Up: Allows users to register with an email and password.
  
@@ -22,9 +22,9 @@ Features
  
  • Password Reset: Sends a reset link to the user’s registered email.
 
- Screenshots
+ #Screenshots
  ![IMG_20250123_103024_033](https://github.com/user-attachments/assets/cd46e11a-deb9-43d7-bed4-f55f8af006c3)
-Technologies Used
+#Technologies Used
 
  • Flutter: For the frontend UI.
  
